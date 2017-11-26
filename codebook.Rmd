@@ -22,13 +22,13 @@ The following items in the raw dataset were utilized for this analysis, all loca
 
 ### Testing and Training information
 * subject\_test.txt, subject\_train.txt
-      + Contains details about subjects in the test set.
+      + Has details about the subect
 
 * X\_test.txt, X\_train.txt
-      + Contains details regarding the observations of each feature.
+      + details for each observation
 
 * Y\_test.txt, Y\_train.txt
-      + Contains key values allowing feature names to be related to their descriptions (foreign key to activity_labels.txt)
+      + This is the key to the name of the columns
 
 ## Transformation Goals
 
